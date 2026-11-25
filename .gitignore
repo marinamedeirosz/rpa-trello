@@ -1,0 +1,5 @@
+trelloapp/
+.venv/
+output.xml
+report.html
+.DS_Store
